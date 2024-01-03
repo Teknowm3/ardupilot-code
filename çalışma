@@ -1,0 +1,6 @@
+mode loiter
+arm throthle
+mode guided
+takeoff 15 15 metreye çıkarır.
+
+dronekit-python.readthedocs.io/en/latest/guide/vehicle_state_and_parameters.html

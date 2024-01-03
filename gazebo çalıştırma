@@ -1,0 +1,6 @@
+gazebo çalıştırma kodları
+
+gazebo --verbose ~/ardupilot_gazebo/worlds/iris_arducopter_runway.world
+
+cd ~/ardupilot/ArduCopter/
+sim_vehicle.py -v ArduCopter -f gazebo-iris --console
